@@ -8,7 +8,7 @@ We believe software should be open, auditable, and owned by its users — not co
 ## Philosophy
 
 - **Freedom first.** Every component of WildNIX is free software. No proprietary blobs, no hidden drivers, no exceptions.
-- **Transparency.** The entire system — from bootloader to userspace — is open to inspection, modification, and redistribution.
+- **Transparency.** The entire system from bootloader to userspace is open to inspection, modification, and redistribution.
 - **Simplicity.** We favor small, composable tools over monolithic complexity.
 
 ## Status
