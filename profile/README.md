@@ -3,7 +3,7 @@
 # WildNIX
 
 WildNIX is a free (as in freedom) operating system built from the ground up.
-We believe software should be open, auditable, and owned by its users — not corporations.
+We believe software should be open, auditable, and owned by its users, not corporations.
 
 ## Philosophy
 
